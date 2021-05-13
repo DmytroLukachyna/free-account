@@ -1,0 +1,17 @@
+.footer {
+    background: #222F38;
+    padding: 20px;
+    &__text {
+        color: #FFFFFF;
+        &:not(:first-child) {
+            margin-top: 10px;
+        }
+    }
+    &__link {
+        color: #FFFFFF;
+        text-decoration: underline;
+        &:hover {
+            color: #FFFFFF;
+        }
+    }
+}
