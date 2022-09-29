@@ -1,18 +1,18 @@
 .section-3 {
-    padding: 190px 15px 100px;
-    background: url(../img/footer_bg.svg) no-repeat 50%/cover;
-    &__title {
-        font-weight: bold;
-        font-size: 40px;
-        line-height: 56px;
-        text-align: center;
-        color: #FFFFFF;
-    }
-    &__notification {
-        margin-top: 40px;
-        font-size: 24px;
-        line-height: 32px;
-        text-align: center;
-        color: #FFFFFF;
-    }
+  padding: 190px 15px 100px;
+  background: url(../img/footer_bg.svg) no-repeat 50% / cover;
+  &__title {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 56px;
+    text-align: center;
+    color: #ffffff;
+  }
+  &__notification {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    color: #ffffff;
+  }
 }

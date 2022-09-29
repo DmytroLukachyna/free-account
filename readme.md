@@ -1,1 +1,1 @@
-https://dmytrolukachyna.github.io/projects/free-account/
+https://dmytrolukachyna.pp.ua/projects/commercial/free-account/
